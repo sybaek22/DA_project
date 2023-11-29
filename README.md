@@ -24,7 +24,7 @@
 
 
 ## Environment
-- Development Environment: Jupyter Notebook, Google colaboratory
+- Development Environment: Jupyter Notebook, Google Colaboratory
 - Programming Language
   - Data Preprocessing and Data Pattern Analysis: Python 3.11.5
   - Predictive Modeling: Python 3.8
