@@ -40,7 +40,9 @@
 !pip install seaborn 
 !pip install plotly 
 !pip install folium
+!pip install scikit-learn
 !pip install keras==2.12.0
+!pip install tensorflow==2.12.0
 ```
 
 - Required Libraries
@@ -49,6 +51,7 @@
 import numpy as np
 import pandas as pd
 import geopandas as gpd
+import datetime
 import warnings
 from shapely.geometry import Point
 
@@ -58,15 +61,14 @@ import seaborn as sns
 import plotly.express as px
 
 # This library creates interactive maps
-import datetime
 import folium
 from folium import Choropleth
 from folium.plugins import HeatMap
 from branca.element import Template, MacroElement
 
 # For Predictive Modeling
-import datetime
 import time
+import datetime
 import sklearn
 from sklearn.model_selection import train_test_split, GridSearchCV
 from tensorflow.keras.models import Sequential
