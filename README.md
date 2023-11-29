@@ -24,12 +24,11 @@
 
 
 ## Environment
-- Development Environment: Jupyter Notebook
-- Programming Language: Python 3.8
-```
-python3.8 -m pip install jupyter notebook
-```
-
+- Development Environment: Jupyter Notebook, Google colaboratory
+- Programming Language
+  - Data Preprocessing and Data Pattern Analysis: Python 3.11.5
+  - Predictive Modeling: Python 3.8
+  
 ## Prerequisite
 - Installation
 ```
