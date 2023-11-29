@@ -16,10 +16,10 @@
 
 
 ## Dataset
-- Kaggle 'Significant Earthquake, 1965-2016'
+- Kaggle 'Significant Earthquake, 1965-2016'<br>
   https://www.kaggle.com/datasets/usgs/earthquake-database/data
 
-- Kaggle 'Tectonic Plate Boundaries'
+- Kaggle 'Tectonic Plate Boundaries'<br>
   https://www.kaggle.com/datasets/cwthompson/tectonic-plate-boundaries
 
 
